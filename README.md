@@ -37,13 +37,18 @@
 - [The Surprising Things That CSS Can Animate / Coder's Block](https://codersblock.com/blog/the-surprising-things-that-css-can-animate/)
 - High Performance Animations - https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
 
-
 ## Assigments:
 
-- **Develop below shown templates using Bootstrap:**
-  1. https://startbootstrap.com/previews/freelancer
-  2. https://startbootstrap.com/previews/heroic-features
-  3. https://startbootstrap.com/previews/clean-blog
+1. **Develop one of the below shown templates using Bootstrap:** (Choose the one you like)
+   - https://startbootstrap.com/previews/freelancer
+   - https://startbootstrap.com/previews/heroic-features
+   - https://startbootstrap.com/previews/clean-blog
+2. **Complete these sections from [CSS Exercise](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_2dtransforms1):**
+   - "CSS Web Fonts", "CSS 2D Transforms", "CSS 3D Transforms", "CSS Transitions", "CSS Animations".
+3. **Build this animation** - https://100dayscss.com/?dayIndex=10
+   - You can inspect and download the images.
+4. **Build this card** - https://100dayscss.com/?dayIndex=5
+   - All hover effect must be applied. (Use CSS Transitions)
 
 ## Some useful resources:
 
